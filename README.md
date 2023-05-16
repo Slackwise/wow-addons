@@ -4,6 +4,7 @@ I got sick of using various addon managers and realized I could just use git sub
 
 Please feel free to steal and spread this idea!
 
+
 Downsides?
 ----------
 This is perfectly fine if you don't mind:
@@ -12,3 +13,13 @@ This is perfectly fine if you don't mind:
 - Manually resolving any `RequiredDeps` in the TOC, and adding those as well, *recursively*.
 
 Definitely don't recommend this for a non-developer.
+
+
+Setup
+-----
+You need to run `git submodule update --init --recursive` after initial install.
+
+
+Updating
+--------
+You should be able to use `git pull --recurse-submodules` to update all repos and submodules to the latest commits.
