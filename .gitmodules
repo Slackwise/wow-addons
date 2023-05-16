@@ -1,0 +1,9 @@
+[submodule "Storyline"]
+	path = Storyline
+	url = https://github.com/Total-RP/Storyline
+[submodule "SlackUI"]
+	path = SlackUI
+	url = https://github.com/Slackwise/SlackUI
+[submodule "Ace3"]
+	path = Ace3
+	url = https://github.com/WoWUIDev/Ace3
