@@ -7,3 +7,6 @@
 [submodule "Ace3"]
 	path = Ace3
 	url = https://github.com/WoWUIDev/Ace3
+[submodule "DragonRiding"]
+	path = DragonRiding
+	url = https://github.com/AzerPUG/DragonRiding
