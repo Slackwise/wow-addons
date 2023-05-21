@@ -10,3 +10,6 @@
 [submodule "AzerPUGsDragonRider"]
 	path = AzerPUGsDragonRider
 	url = https://github.com/AzerPUG/DragonRiding
+[submodule "GreenWall"]
+	path = GreenWall
+	url = https://github.com/AIE-Guild/GreenWall
