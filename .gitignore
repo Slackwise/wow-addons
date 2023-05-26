@@ -1,3 +1,4 @@
 .vscode/
 +Wowhead_Looter/
-WeakAuras/ # Don't need this in general for now
+# Don't need this in general for now
+WeakAuras/
