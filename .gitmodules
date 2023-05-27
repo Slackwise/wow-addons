@@ -13,3 +13,6 @@
 [submodule "GreenWall"]
 	path = GreenWall
 	url = https://github.com/AIE-Guild/GreenWall
+[submodule "Details-Damage-Meter"]
+	path = Details
+	url = https://github.com/Tercioo/Details-Damage-Meter
