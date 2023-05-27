@@ -16,3 +16,9 @@
 [submodule "Details-Damage-Meter"]
 	path = Details
 	url = https://github.com/Tercioo/Details-Damage-Meter
+[submodule "BigWigs"]
+	path = BigWigs
+	url = https://github.com/BigWigsMods/BigWigs
+[submodule "LittleWigs"]
+	path = LittleWigs
+	url = https://github.com/BigWigsMods/LittleWigs
